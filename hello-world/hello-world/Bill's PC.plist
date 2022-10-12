@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PokemonStorage</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>10</string>
+			<key>img</key>
+			<string>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png</string>
+			<key>height</key>
+			<string>3</string>
+			<key>weight</key>
+			<string>29</string>
+			<key>name</key>
+			<string>caterpie</string>
+		</dict>
+	</array>
+</dict>
+</plist>
